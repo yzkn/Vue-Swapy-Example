@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
+import Swapy from './components/Swapy.vue'
 </script>
 
 <template>
@@ -14,6 +15,10 @@ import TheWelcome from './components/TheWelcome.vue'
 
   <main>
     <TheWelcome />
+  </main>
+
+  <main>
+    <Swapy />
   </main>
 </template>
 
