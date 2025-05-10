@@ -62,6 +62,7 @@ npm run dev
 
 ```bash
 npm install swapy
+npm install bootstrap
 ```
 
 ---
