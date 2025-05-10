@@ -65,6 +65,10 @@ npm install swapy
 npm install bootstrap
 ```
 
+```bash
+npm run build
+```
+
 ---
 
 Copyright (c) 2025 YA-androidapp(https://github.com/yzkn) All rights reserved.
